@@ -41,3 +41,11 @@ int main(){
     getline(cin, s);
     return 0;
 }
+// End of the program
+// This program successfully checks if a year is a leap year or not based on the given rules.
+// It also includes user prompts and waits for user input before exiting.
+// The code is written in C++23 standard.
+//Author: Arnab Pal
+// Date: 10th December 2025
+// Happy Coding!
+// Goodbye!
