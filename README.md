@@ -31,4 +31,4 @@
 
 ---
 
-***IF YOU LIKED👍 MY PROGRAMME THEN FOLLOW ME ON <a href="https://github.com/arnabp-x64/">GITHUB</a>😺, <a href="www.youtube.com/@Kyros_Nexus">YOUTUBE</a>▶️, and <a href="https://www.instagram.com/kyros_nexus/">INSTAGRAM</a>📷. PLEASE STAR MY REPO.⭐⭐⭐😎***
+***IF YOU LIKED👍 MY PROGRAMME THEN FOLLOW ME ON <a href="https://github.com/arnabp-x64/">GITHUB</a>😺, <a href="https://www.youtube.com/channel/UCsGe-cmXeUpnlvTEr-lHPvg">YOUTUBE</a>▶️, and <a href="https://www.instagram.com/kyros_nexus/">INSTAGRAM</a>📷. PLEASE STAR MY REPO.⭐⭐⭐😎***
